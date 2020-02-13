@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: a392a75bd230dc54c835603e7d0598c9
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Army_Image
+    second: {fileID: 2100000, guid: 5242c994b898661458a4cdf286742e81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Army_Zombie_Image
+    second: {fileID: 2100000, guid: c8a62ba57b543a046badbd0c884d6f9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Person1_Image
+    second: {fileID: 2100000, guid: 53ed55fba7ae17f4a986ee8d4eac4ad0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Person1_Zombie_Image
+    second: {fileID: 2100000, guid: b9babd55dadddd44ea3f7aa5622cedd6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Person2_Image
+    second: {fileID: 2100000, guid: 3e8cf5c0f0c4a614ea5ab0d1223cdfe7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Person2_Zombie_Image
+    second: {fileID: 2100000, guid: cb40f96b44e53da4d87043a78e758466, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Person3_Image
+    second: {fileID: 2100000, guid: f72586a4f232c2a409f8b5e8002de59f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Person3_Zombie_Image
+    second: {fileID: 2100000, guid: 69a5a49905de46e4b956a8b602482a56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Person4_Image
+    second: {fileID: 2100000, guid: 335791479316ed042bc0cfdc03de9ab3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Person4_Zombie_Image
+    second: {fileID: 2100000, guid: 60317782131d5aa44b2b4ae5602a989c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Person5_Image
+    second: {fileID: 2100000, guid: e00bd3c8449c53d43aa5d4b2e0dc8200, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Person5_Zombie_Image
+    second: {fileID: 2100000, guid: 212fadb07e8cd0a41b415f25d5b855d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Person6_Image
+    second: {fileID: 2100000, guid: 8d769c46fd4037e499b85ef4550a1467, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Person6_Zombie_Image
+    second: {fileID: 2100000, guid: f90ede4f29588234f9c1170ce6c7557f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Person7_Image
+    second: {fileID: 2100000, guid: a596c53d8b929b84db9ccf2e94e6f28b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Person7_Zombie_Image
+    second: {fileID: 2100000, guid: 8537b1bf43b1bcb44b69a95fc80f7c4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Person8_Image
+    second: {fileID: 2100000, guid: dda25480acee8fb4b922ba7f1159fc8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Person8_Zombie_Image
+    second: {fileID: 2100000, guid: 5a29c7d1ed0aae04f9370169b94cd8c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Police_Image
+    second: {fileID: 2100000, guid: 03b82a98ea1ad684581027032653f065, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Police_Zombie_Image
+    second: {fileID: 2100000, guid: afd6ac2e382e44a498f13389d1d349ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: theGun
+    second: {fileID: 2100000, guid: 78bf8f39df7651d469aad9b39c8d76d6, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4027177594222593188
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2401210071906174635}
+  - component: {fileID: 1270981919959621237}
+  m_Layer: 0
+  m_Name: Zomble_shua
+  m_TagString: Nonperson
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2401210071906174635
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4027177594222593188}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 89.157394, y: 19.745125, z: 137.53659}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1270981919959621237
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4027177594222593188}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1688bfcade4431e40a1927c43aa27cba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objects:
+  - {fileID: 418121777335870009, guid: 7e744108bd4859a49b17e4d84c4f1de6, type: 3}
+  - {fileID: 5016545377289425903, guid: 628351d8510c1124895311c7db1c56c9, type: 3}
+  - {fileID: 4375226104009584690, guid: 7e036180fd33c9a4f9e7b30c74369d15, type: 3}
+  - {fileID: 6710736910141225236, guid: c105a88a52cb76c44b6cef5055c7aafc, type: 3}
+  - {fileID: 7737369706467841513, guid: 3b9bffbe78ef24f41938ed25c5e048f3, type: 3}
+  - {fileID: 5655608844261774139, guid: 10c5a4710b6672f4ea960d9a5276ab7f, type: 3}
+  - {fileID: 3290021365827179269, guid: 6ba37df862f190b41989aab6f9b62c87, type: 3}
+  - {fileID: 4562598740353014042, guid: 2d3fde8358dbf04418f9fa33d5ff2eb1, type: 3}
+  - {fileID: 8318407259962839924, guid: bf3cffd5575f83a4884a8f099bd69990, type: 3}
+  - {fileID: 3266372234382263160, guid: 54afdd0aa6b0f84458ecfb71dd8bc7b2, type: 3}
+  - {fileID: 125866640236072155, guid: d517aa05ef834dc4eb61bdb90d680009, type: 3}
+  - {fileID: 788869530992811547, guid: 669fe075ddf2fff48852df7deb1b6af5, type: 3}
+  - {fileID: 1542019098995171741, guid: 92ab793b0dd6b7b4882d7affc3214f13, type: 3}
+  buildname: deadZombie
+  buildtime: 5
+  cishu: 3
+  buildnum: 3
+  shua: 1
